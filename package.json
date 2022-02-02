@@ -1,0 +1,30 @@
+{
+  "name": "lat1",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.0.4"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-rc.13",
+    "@vue/compiler-sfc": "^3.0.4"
+  },
+  "description": "aplikasi vuejs option api",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/findarip/todo-vue3.git"
+  },
+  "keywords": [
+    "vuejs3"
+  ],
+  "author": "findarip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/findarip/todo-vue3/issues"
+  },
+  "homepage": "https://github.com/findarip/todo-vue3#readme"
+}
